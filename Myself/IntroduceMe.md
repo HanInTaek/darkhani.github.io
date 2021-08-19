@@ -3,7 +3,13 @@
 Objective-C, Swift를 다루는 한인택을 소개 합니다.
 
 ## Company *Intaek = [Company shared];
-## [(주) 이데아텍 2020.04 ~ ]
+## [(주) 이누씨 2021.06 ~ ]
+### Cloud PC RDP Viewer 개발
+- Open Source FreeRDP를 Customizing하는 작업
+    - Windows Mouse 커서가 노출되지 않던 문제를 C 소스 단 수정해서 노출 성공
+    <img src="https://darkhani.github.io/Myself/freerdp-cursor.png" alt="freerdp" style="zoom:70%;" />
+    
+## [(주) 이데아텍 2020.04 ~ 2021.05]
 ### i-ONE PASS 통합인증 앱 개발 및 유지보수
 <img src="https://darkhani.github.io/Myself/ionepass.png" alt="ionepass" style="zoom:67%;" />
 
